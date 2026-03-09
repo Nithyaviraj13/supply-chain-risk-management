@@ -1,0 +1,35 @@
+
+================================================================================
+MULTIMODAL SUPPLY CHAIN DISRUPTION DETECTION SYSTEM
+FINAL PERFORMANCE REPORT
+================================================================================
+
+📊 MODEL PERFORMANCE:
+   LSTM (Logistics):         AUC = 0.9730, Accuracy = 0.9745
+   GNN (Network):            AUC = 0.7222
+   CNN (Visual):             AUC = 0.9125
+   FUSION (Multimodal):      AUC = 0.9730, Accuracy = 0.9745
+
+📈 PERFORMANCE GAIN:
+   Improvement over baseline: -0.00%
+
+⚡ ATTENTION MECHANISM:
+   Logistics Weight:         0.567 (56.7%)
+   Network Weight:           0.418 (41.8%)
+   Visual Weight:            0.015 (1.5%)
+
+🛣️  ROUTE OPTIMIZATION:
+   Selected Route:           Rail Route (Eco)
+   Cost:                     $900
+   Time:                     20 days
+   Risk:                     10.0%
+   Capacity:                 3000 units
+
+📦 DATA STATISTICS:
+   Training Samples:         144,415
+   Test Samples:             36,104
+   Features per Model:       LSTM=10, GNN=7, CNN=1280
+
+✅ DEPLOYMENT STATUS:      READY FOR PRODUCTION
+⏰ TIMESTAMP:              2026-01-17 08:50:17
+================================================================================

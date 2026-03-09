@@ -1,0 +1,46 @@
+{
+  "method": "Classical",
+  "best_route": {
+    "id": 3,
+    "name": "Rail Route (Eco)",
+    "cost": 900,
+    "time": 20,
+    "risk": 0.1,
+    "capacity": 3000
+  },
+  "all_routes": [
+    {
+      "id": 0,
+      "name": "Sea Route (Primary)",
+      "cost": 1000,
+      "time": 25,
+      "risk": 0.15,
+      "capacity": 5000
+    },
+    {
+      "id": 1,
+      "name": "Air Route (Express)",
+      "cost": 3500,
+      "time": 3,
+      "risk": 0.05,
+      "capacity": 500
+    },
+    {
+      "id": 2,
+      "name": "Land Route (Backup)",
+      "cost": 1800,
+      "time": 15,
+      "risk": 0.25,
+      "capacity": 2000
+    },
+    {
+      "id": 3,
+      "name": "Rail Route (Eco)",
+      "cost": 900,
+      "time": 20,
+      "risk": 0.1,
+      "capacity": 3000
+    }
+  ],
+  "timestamp": "2026-01-17 08:50:13"
+}
